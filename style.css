@@ -34,7 +34,7 @@ body {
     user-select: none;
 }
 
-/* HEADER */
+
 
 header {
     padding-top: 30px;
@@ -56,7 +56,7 @@ header h1:hover {
     background-color: var(--EXTRA-LIGHT-COLOR);
 }
 
-/* MAIN */
+
 
 main p {
     margin-bottom: 20px;
@@ -110,7 +110,7 @@ main button:hover {
     background-color: var(--EXTRA-LIGHT-COLOR);
 }
 
-/* DIALOG */
+
 
 dialog {
     position: fixed;
@@ -123,7 +123,7 @@ dialog::backdrop {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-/* --- RESULT DIALOG */
+
 
 .result-dialog {
     top: 300px;
@@ -138,7 +138,7 @@ dialog::backdrop {
     font-weight: 700;
 }
 
-/* --- NAMES DIALOG */
+
 
 .names-dialog {
     top: 200px;
@@ -216,7 +216,6 @@ dialog::backdrop {
     }
 }
 
-/* FOOTER */
 
 footer {
     position: absolute;
